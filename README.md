@@ -13,3 +13,6 @@ A simple web app built with **React + Tailwind CSS** that helps users find recip
 - React (Vite)
 - Tailwind CSS
 - TheMealDB API
+
+## Live Demo:-
+https://codesandbox.io/p/github/SakshiJadhav2008/Recipe-Ideas/main?import=true
